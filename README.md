@@ -2,6 +2,7 @@
 机械郁金香
 
 ### 成品展示
+<iframe src="//player.bilibili.com/player.html?bvid=BV1694y1Z7xW&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
 ![成品展示图](images/成品一.png) ![成品展示图](images/成品二.png)
 
 
@@ -19,6 +20,7 @@
 >* 1206封装白色LED
 
 ### PCB底座
+PCB 3D
 ![PCB3D俯视图](images/PCBViewTop.png)![PCB成品](images/PCB.png)
 
 ### 简要说明
@@ -29,6 +31,9 @@
 ><br>&emsp;&emsp;舵机摆放的朝向决定了花开花谢时舵机应该旋转的方向，根据实际情况决定；代码中应该给予一个合适的中间位置用于舵机的初始化，错误的位置初始化对于舵机连接的直杆是致命的。
 ><br>&emsp;&emsp;花瓣的制作应该是最大的难点，您需要制作6片尺寸近乎一致的花瓣。由于达不到原作者的条件，实际操作时，先在纸张上画出花瓣的草图，量出花瓣的长，剪出对应长度的铜丝，根据草图编制花瓣。焊接时，需要借助纸胶带和支架的配合，因为铜杆导热性非常好，焊接时需要果断迅速。
 ><br>![花瓣草图](images/草图.png)
+
+### 部分记录
+
 
 ### 存在问题
 >&emsp;&emsp;原作者使用的库函数不存在该问题!
