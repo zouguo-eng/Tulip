@@ -33,7 +33,7 @@ PCB 3D俯视图![PCBViewTop.png](https://s2.loli.net/2022/04/05/Cp62o5eq8UjzKXW.
 
 ### 核心代码(Jiří Praus)
 ```c
-花开
+//花开
 boolean petalsBloom(int j) {
   if (j < 25) {
     return false; // delay
@@ -50,7 +50,7 @@ boolean petalsBloom(int j) {
 ```
 
 ```c
-花谢
+//花谢
 boolean petalsFade(int j) {
   if (j > 51) {
     return true;
