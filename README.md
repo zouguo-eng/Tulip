@@ -36,5 +36,5 @@
 
 ### 版权
 >&emsp;&emsp;原作者Jiří Praus采用了CC BY-NC-SA的版权，核心代码参考原作者，esp部分是为了实现远端控制，控制逻辑稍作修改以适应实际情况，本项目仅做心得分享，制作细节详见如下链接。
->[原作者及源码](https://www.hackster.io/jiripraus/ever-blooming-mechanical-tulip-1b0323)  +
+>[原作者及源码](https://www.hackster.io/jiripraus/ever-blooming-mechanical-tulip-1b0323)<br>
 >[原作者Twitter](https://twitter.com/jipraus)
