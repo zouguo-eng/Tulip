@@ -2,7 +2,7 @@
 机械郁金香
 
 ### 成品展示
-![a4e75a4e83e71bb75460f7a486f85a5c.png](en-resource://database/517:0)
+![成品展示图](images/Snipaste_2022-04-05_13-06-25.png)
 
 
 ### 渊源
