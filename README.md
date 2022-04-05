@@ -2,7 +2,7 @@
 机械郁金香
 
 ### 成品展示
-<iframe src="//player.bilibili.com/player.html?bvid=BV1694y1Z7xW&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+[B站视频](https://www.bilibili.com/video/BV1694y1Z7xW/)
 ![成品展示图](images/成品一.png) ![成品展示图](images/成品二.png)
 
 
