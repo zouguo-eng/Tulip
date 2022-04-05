@@ -3,7 +3,7 @@
 
 ### 成品展示
 [B站视频](https://www.bilibili.com/video/BV1694y1Z7xW/)<br>
-![成品展示图](images/成品一.png) ![成品展示图](images/成品二.png)
+![成品展示图](https://sm.ms/image/raN53R4TzxSuVAL) ![成品展示图](https://sm.ms/image/nbpVgzCjWLTuYci)
 
 
 ### 渊源
@@ -20,7 +20,7 @@
 >* 1206封装白色LED
 
 ### PCB底座
-PCB 3D俯视图![PCB3D俯视图](images/PCBViewTop.png)PCB 成品图![PCB成品](images/PCB.png)
+PCB 3D俯视图![PCB3D俯视图](https://sm.ms/image/Cp62o5eq8UjzKXW)PCB 成品图![PCB成品](https://sm.ms/image/eX2unAPGd69ypRI)
 
 ### 简要说明
 >&emsp;&emsp;程序使用ArduinoIDE开发，通过舵机的旋转及曲杆形成花开花谢的效果。项目难点在于机械部分的制作，您可能需要根据原作者提供的尺寸图来制作花瓣、花蕊、曲柄部分，由于纯手工焊接，很难做到成品外观的完全一致，因此很具有差异性（制做一次不想做第二次）。
@@ -29,7 +29,7 @@ PCB 3D俯视图![PCB3D俯视图](images/PCBViewTop.png)PCB 成品图![PCB成品]
 >&emsp;&emsp;Arduino主控负责处理TTP223触摸中断、SoftPWM负责调节花瓣灯光亮度、FastLED库负责ws2812b花蕊的效果、SoftwareSerial负责软串口与esp12f通信、esp8266负责联网及MQTT订阅发布。
 ><br>&emsp;&emsp;舵机摆放的朝向决定了花开花谢时舵机应该旋转的方向，根据实际情况决定；代码中应该给予一个合适的中间位置用于舵机的初始化，错误的位置初始化对于舵机连接的直杆是致命的。
 ><br>&emsp;&emsp;花瓣的制作应该是最大的难点，您需要制作6片尺寸近乎一致的花瓣。由于达不到原作者的条件，实际操作时，先在纸张上画出花瓣的草图，量出花瓣的长，剪出对应长度的铜丝，根据草图编制花瓣。焊接时，需要借助纸胶带和支架的配合，因为铜杆导热性非常好，焊接时需要果断迅速。
-><br>![花瓣草图](images/草图.png)
+><br>![花瓣草图](https://sm.ms/image/Nu7y8pwDhg4KjzT)
 
 ### 部分记录
 
