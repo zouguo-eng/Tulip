@@ -19,7 +19,7 @@
 >* 1206封装白色LED
 
 ### PCB底座
-
+![PCB3D俯视图](images/PCBViewTop.png)![PCB3D底视图](images/PCBViewBottom.png)![PCB成品](images/PCB.png)
 
 ### 简要说明
 >&emsp;&emsp;程序使用ArduinoIDE开发，通过舵机的旋转及曲杆形成花开花谢的效果。项目难点在于机械部分的制作，您可能需要根据原作者提供的尺寸图来制作花瓣、花蕊、曲柄部分，由于纯手工焊接，很难做到成品外观的完全一致，因此很具有差异性（制做一次不想做第二次）。
