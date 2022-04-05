@@ -31,8 +31,9 @@ PCB 3D俯视图![PCBViewTop.png](https://s2.loli.net/2022/04/05/Cp62o5eq8UjzKXW.
 ><br>&emsp;&emsp;花瓣的制作应该是最大的难点，您需要制作6片尺寸近乎一致的花瓣。由于达不到原作者的条件，实际操作时，先在纸张上画出花瓣的草图，量出花瓣的长，剪出对应长度的铜丝，根据草图编制花瓣。焊接时，需要借助纸胶带和支架的配合，因为铜杆导热性非常好，焊接时需要果断迅速。
 ><br>![花瓣草图.png](https://s2.loli.net/2022/04/05/Nu7y8pwDhg4KjzT.png)
 
-### 核心代码
+### 核心代码(Jiří Praus)
 ```c
+花开
 boolean petalsBloom(int j) {
   if (j < 25) {
     return false; // delay
@@ -48,7 +49,8 @@ boolean petalsBloom(int j) {
 }
 ```
 
-```c++
+```c
+花谢
 boolean petalsFade(int j) {
   if (j > 51) {
     return true;
