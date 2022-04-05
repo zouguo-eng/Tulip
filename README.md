@@ -19,7 +19,7 @@
 >* 5050封装WS2812B灯
 >* 1206封装白色LED
 
-### PCB底座
+### PCB底座(布线铺铜随时变)
 PCB 3D俯视图![PCBViewTop.png](https://s2.loli.net/2022/04/05/Cp62o5eq8UjzKXW.png)PCB 成品图![PCB.png](https://s2.loli.net/2022/04/05/eX2unAPGd69ypRI.png)
 
 ### 简要说明
