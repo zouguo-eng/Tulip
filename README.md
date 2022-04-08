@@ -20,7 +20,7 @@
 >* 1206封装白色LED
 
 ### PCB底座(布线铺铜随时变)
-PCB 3D俯视图![PCBViewTop.png](https://s2.loli.net/2022/04/05/Cp62o5eq8UjzKXW.png)PCB 成品图![PCB.png](https://s2.loli.net/2022/04/05/eX2unAPGd69ypRI.png)
+![PCBViewTop.png](https://s2.loli.net/2022/04/05/Cp62o5eq8UjzKXW.png)PCB 3D俯视图![PCB.png](https://s2.loli.net/2022/04/05/eX2unAPGd69ypRI.png)PCB 成品图
 
 ### 简要说明
 >&emsp;&emsp;程序使用ArduinoIDE开发，通过舵机的旋转及曲杆形成花开花谢的效果。项目难点在于机械部分的制作，您可能需要根据原作者提供的尺寸图来制作花瓣、花蕊、曲柄部分，由于纯手工制作，很难做到成品外观的完全一致，因此很具有差异性（制做一次不想做第二次）。
